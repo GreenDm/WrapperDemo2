@@ -1,6 +1,5 @@
 package com.epam;
 
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
 /**
  * Created by Hrinchenko on 12.03.2016.
